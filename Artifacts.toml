@@ -1,0 +1,72 @@
+[[BART]]
+arch = "aarch64"
+git-tree-sha1 = "f58206dc61e73ac0009e9215b7406d8e0ad4fc9f"
+os = "macos"
+
+    [[BART.download]]
+    sha256 = "0ccca57307c93b9a926752b690fc45d7aa247dd6f79faf07a1d221550529a943"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[BART]]
+arch = "aarch64"
+git-tree-sha1 = "2356cc6bd5e14902e1e79f084c98c6a8bb177cc5"
+libc = "glibc"
+os = "linux"
+
+    [[BART.download]]
+    sha256 = "57d916b7b2e9d05c789d8eba5ec5ec71b47159cded9eeae5108a9bd4b2744d6a"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.aarch64-linux-gnu.tar.gz"
+[[BART]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "58174171fd26edabbbea38443fc7c2498276f29f"
+libc = "glibc"
+os = "linux"
+
+    [[BART.download]]
+    sha256 = "da5a00e62d29274123f96f0c5012478d164aadabceed2b419dc17b50fb17ada5"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[BART]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1a212032c0e7282d69b95c39a9c449f08d534b8f"
+libc = "glibc"
+os = "linux"
+
+    [[BART.download]]
+    sha256 = "3715528a95dd812fae739950db7ce5bc8e1b2669e4ceda2a0190d9fd7e8bd389"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[BART]]
+arch = "i686"
+git-tree-sha1 = "66abf391e3a3e0e31f663e2cf44e7da9c6aa9e01"
+libc = "glibc"
+os = "linux"
+
+    [[BART.download]]
+    sha256 = "2183d8f87c591b180d1eeab8f4561a9dbe82b69336590631c25a9fe42f7785dd"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.i686-linux-gnu.tar.gz"
+[[BART]]
+arch = "powerpc64le"
+git-tree-sha1 = "2629229258a0e8022a089abbd290f85773247b48"
+libc = "glibc"
+os = "linux"
+
+    [[BART.download]]
+    sha256 = "49fd6055bedcaae157a653b5c3abf901d2619a0abe78b4d442347cc5c8744ed5"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+[[BART]]
+arch = "x86_64"
+git-tree-sha1 = "031877e0720261466a892829677b6b21acce6235"
+os = "macos"
+
+    [[BART.download]]
+    sha256 = "d3e52205d4f8cd3b3711a5e4844e69ada527297c63be87dd5250dda273e0957b"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[BART]]
+arch = "x86_64"
+git-tree-sha1 = "a27f5c73b319b416dd31ed67fd5e8b31e2de69cf"
+libc = "glibc"
+os = "linux"
+
+    [[BART.download]]
+    sha256 = "7e268535a70e6d7f683b4dc1661b324941cd66ad21528ae5ae0024262467186c"
+    url = "https://github.com/JuliaBinaryWrappers/BART_jll.jl/releases/download/BART-v1.0.0+0/BART.v1.0.0.x86_64-linux-gnu.tar.gz"
